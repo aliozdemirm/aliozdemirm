@@ -32,7 +32,7 @@ Faculty of Mathematics and Computer Science (Erasmus Exchange) · Feb 2026 - Jul
 |---|---|
 | [retail-demand-forecast](https://github.com/aliozdemirm/retail-demand-forecast) | Weekly demand forecasting that turns forecasts into safety-stock and order recommendations. LightGBM, XGBoost and CatBoost ensemble with a Streamlit dashboard. |
 | [erp-delivery-prediction](https://github.com/aliozdemirm/erp-delivery-prediction) | Delivery-time prediction for manufacturing orders, built in a four-person team. I worked on the React frontend, the prediction pipeline and the FastAPI AI service foundation. |
-| DefBoss | Real-time threat detection system with YOLOv8 that flags potential safety risks and violent actions. Presented at an AI summit. |
+| [DefBoss (Kaggle)](https://www.kaggle.com/models/skylab-airlab/deffboss-model) | Real-time threat detection system with YOLOv8 that flags potential safety risks and violent actions. Presented at an AI summit. |
 
 ## Skills
 
